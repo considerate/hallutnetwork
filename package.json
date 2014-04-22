@@ -1,6 +1,6 @@
 {
   "name": "hallutnetwork",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "lib/network.js",
   "scripts": {
