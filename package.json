@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/considerate/hallutnetwork/issues"
   },
-  "homepage": "https://github.com/considerate/hallutnetwork"
+  "homepage": "https://github.com/considerate/hallutnetwork",
+  "dependencies": {
+    "debug": "~0.8.0"
+  }
 }
